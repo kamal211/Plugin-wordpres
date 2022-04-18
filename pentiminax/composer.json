@@ -6,10 +6,5 @@
             "Pentiminax\\DuplicatePost\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "pentiminax"
-        }
-    ],
     "require": {}
 }
